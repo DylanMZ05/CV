@@ -494,6 +494,12 @@ body, html {
         margin: 10px 25px 25px;
     }
 
+    .linkedin,
+    .upwork {
+        height: 35px;
+        margin: 10px 25px 25px;
+    }
+
     .mobile {
         display: none;
     }
